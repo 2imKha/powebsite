@@ -762,8 +762,8 @@ body
   border: none;
   outline: none;
   color: white;
-  padding-bottom:10px;
-  padding-left:8px;
+  padding-bottom:30px;
+  padding-left:0px;
   background-color: inherit;
   font-family: inherit;
 }
