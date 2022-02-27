@@ -53,7 +53,8 @@ body
     border: none;
     outline: none;
     color: white;
-    padding-left:17px;
+    padding-top:14px;
+    padding-left:32px;
     background-color: inherit;
     font-family: inherit;
   }
@@ -530,12 +531,12 @@ body
     color:white;
     font-size:3.5em;
     position:absolute;
-    top:93px;
-    left:105px;
+    top:100px;
+    left:97px;
 }
 #b1
 {
-    margin-top:168px;
+    margin-top:160px;
     color:white;
     margin-left:62px;
     font-size:4.0em;
