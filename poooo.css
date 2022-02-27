@@ -531,13 +531,13 @@ body
     font-size:3.5em;
     position:absolute;
     top:110px;
-    left:105px;
+    left:95px;
 }
 #b1
 {
     margin-top:165px;
     color:white;
-    margin-left:67px;
+    margin-left:57px;
     font-size:4.0em;
 }
 #b2
@@ -545,11 +545,11 @@ body
     color:white;
     margin-top:-460px;
     font-size: 1.0em;
-    margin-left:75px;
+    margin-left:65px;
 }
 #po1
 {
-    margin-left:60px;
+    margin-left:40px;
     height:420px;
     margin-top:30px;
     border-radius: 30px;
