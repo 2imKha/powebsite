@@ -768,3 +768,19 @@ body
   font-family: inherit;
 }
 }
+
+@media (min-width: 1440px) and (max-width: 2560px) 
+{
+  .wrapper .icon
+{
+  margin:0 160px 20px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  position: relative;
+  z-index:2;
+  transition: all 0.4s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+}
