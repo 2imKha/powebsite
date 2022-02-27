@@ -531,13 +531,13 @@ body
     font-size:3.5em;
     position:absolute;
     top:110px;
-    left:95px;
+    left:105px;
 }
 #b1
 {
     margin-top:165px;
     color:white;
-    margin-left:57px;
+    margin-left:67px;
     font-size:4.0em;
 }
 #b2
@@ -545,11 +545,11 @@ body
     color:white;
     margin-top:-460px;
     font-size: 1.0em;
-    margin-left:65px;
+    margin-left:75px;
 }
 #po1
 {
-    margin-left:40px;
+    margin-left:50px;
     height:420px;
     margin-top:30px;
     border-radius: 30px;
@@ -573,7 +573,7 @@ body
   margin-top: 530px;
   position:relative;
   right:600px;
-  margin-left:15px;
+  margin-left:25px;
 }
 .one
 {
