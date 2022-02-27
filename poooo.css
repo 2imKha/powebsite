@@ -757,4 +757,14 @@ body
   position:absolute;
   left:50px;
 }
+.dropdown .dropbtn {
+  font-size: 36px;
+  border: none;
+  outline: none;
+  color: white;
+  padding-bottom:10px;
+  padding-left:8px;
+  background-color: inherit;
+  font-family: inherit;
+}
 }
